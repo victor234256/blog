@@ -1,0 +1,39 @@
+.navbar.navbar-inverse{
+    background-color: #337ab7!important;
+    border-color: transparent;
+    color: #fff!important;
+}
+.navbar-inverse .navbar-nav>li>a:active{
+    background-color: aliceblue;
+
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+
+  color: red!important;   
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: #fff;
+}
+body{
+    background-color: #fff;
+}
+#blog-aside{
+border-left: 5px solid red;
+
+}
+.image{
+    width: 90%;
+       background-color: oldlace;
+    padding: 10px;
+ 
+}
+.sectionn{
+    padding-top: 12px;
+    margin-top: 20px;
+}
+.commentor{
+    background-color: #f6f7f9!important;
+}
+.pleft{
+    padding-left: 85px;
+}
